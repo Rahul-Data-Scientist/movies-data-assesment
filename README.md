@@ -5,7 +5,7 @@ This project analyzes the top **500–600 most popular movies** from **2000 to 2
 
 The goal is to uncover meaningful insights using Python and visualize the results through an **interactive web app**.
 
-🔗 **Live Demo**: (https://movies-analysis.streamlit.app/)
+🔗 **Live Demo**: (https://movies-anlaysis.streamlit.app/)
 
 ---
 
