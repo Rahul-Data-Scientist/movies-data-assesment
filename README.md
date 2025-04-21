@@ -1,4 +1,4 @@
-🎬 Movie Analysis Project
+# 🎬 Movie Analysis Project
 
 ## 📖 Overview
 This project analyzes the top **500–600 most popular movies** from **2000 to 2024**, exploring trends in ratings, revenues, genres, countries of origin, actors, directors, and more.
